@@ -1,0 +1,6 @@
+
+Scrivere un programma che chieda all’utente di inserire tre numeri in virgola mobile. Il programma dovr`a inizialmente memorizzare i tre numeri in altrettanti array di carateri.
+Successivamente il programma dovr`a memorizzare i tre numeri in altrettante variabili di tipo double:
+• il primo numero mediante funzione di libreria atof;
+• il secondo numero mediante funzione di libreria sscanf; • il terzo numero mediante funzione di libreria strtof;
+Il programma stamper`a infine la media aritmetica dei tre numeri.

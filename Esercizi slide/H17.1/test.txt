@@ -1,0 +1,5 @@
+Homework H17.1
+Definire un array di caratteri di lunghezza 15. Riempire tale array con caratteri random nel’intervallo [a-z].
+Definire un array di caratteri mediante una lista di inizializzazione, che abbia almeno 5 caratteri. Stampare la stringa con una istruzione printf.
+Definire un array mediante un inizializzatore che sia un letterale stringa. Stampare quindi la lunghezza della stringa, e la stringa stessa mediante una istruzione printf.
+Definire un array di caratteri di sola lettura, mediante la definizione di un puntatore a carattere. Stampare quindi la stringa e la lunghezza della stringa stessa, mediante una istruzione printf.

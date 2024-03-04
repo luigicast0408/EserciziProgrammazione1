@@ -1,0 +1,7 @@
+Homework H22.1
+1) Si generi una matrice di dimensione N × M – con N ed M a piacere –
+di numeri double.
+2) Si codifichi una funzione che prenda in input la matrice e crei un file contenente tale matrice in formato testo. In particolare, la prima riga di tale file dovr`a contenere i due numeri N ed M.
+3) Si codifichi una funzione in grado di leggere un file come quello creato al punto precedente e quindi di caricare una tale matrice in memoria.
+4) Si codifichi una ulteriore funzione che, data una matrice N × M, ne calcoli la sua trasposta.
+5) Si usi infine la funzione codificata al punto due per salvare tale matrice trasposta su file.

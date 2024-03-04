@@ -1,0 +1,5 @@
+Homework H17.2
+Definire tre stringhe di lunghezza random che sia compresa tra 10 e 20.
+Riempire le tre stringhe con caratteri pseudocasuali che appartengano agli intervalli [a-z, 0-9].
+Eseguire un confronto lessicografico delle tre stringhe mediante la funzione strcmp.
+Infine stampare le tre stringhe, una riga dopo l’altra dalla stringa minore alla stringa maggiore.

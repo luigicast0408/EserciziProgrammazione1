@@ -1,0 +1,1 @@
+Scrivere una funzione che prenda in input un parametro formale A matrice di stringhe (puntatori a char) di dimensione n × m, ed una stringa s. Il metodo restituisca true se esistono almeno due stringhe in A che contengono la stringa s e che abbiano differenti indici di riga e di colonna.

@@ -1,0 +1,5 @@
+Codificare una funzione in C
+che prenda in input un parametro formale matrice S di puntatori a carattere di dimensione n × m (S quindi contiene stringhe),
+uno short w ed uno short k, e restituisca il valore booleano true (1)
+se in S sono presenti almeno una riga ed almeno una colonna che presentano ciascuna almeno w stringhe
+di lunghezza minore di k.

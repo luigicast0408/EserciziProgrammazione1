@@ -1,0 +1,4 @@
+Homework H17.4
+Scrivere un programma che chieda all’utente di inserire alcuni verbi all’infinito presente (e.g. mangiare, spalare, dormire, etc), con un limite massimo sul numero di verbi che potr`a inserire (es: 30).
+Memorizzare i verbi in un array di stringhe di lunghezza prefissata (es: un array che potr`a contenere 30 stringhe ovvero puntatori a caratteri).
+Il programma dovr`a stampare in ouput il numero di verbi con coniugazione “are”, “ere”, “ire”

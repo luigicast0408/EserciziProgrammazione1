@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccc2fb02-89e1-4474-9ed5-6ded291a23f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Esercizi lezione/lez_print/.idea/lez_print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi lezione/maxfra3numeri/.idea/maxfra3numeri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H16.4/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H16.4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H16.4/mainù" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H16.4/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H16.5/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H16.5/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H16.5/testo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.1/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.2/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.3/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.3/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.4/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.4/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.5/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H17.5/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H19.1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/H19.1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/h9.2/.idea/h9.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Esercizi slide/h9.3/.idea/h9.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/19_01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/19_02.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/19_03.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/19_04.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/19_05.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/19_06.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 10/compile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/17_01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/17_02.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/17_03.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/17_04.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/STR_01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/STR_02.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/STR_03.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/STR_04.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/STR_05.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/compile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 11/strtoX.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_02.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_03.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_04.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_05.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_06.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/19_01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/19_02.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/19_03.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/19_04.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/19_05.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/19_06.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code 9/compile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_code_array/.idea/C_code_array.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ZfEr6S97ulTlf8JDBbUATmFfEK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccc2fb02-89e1-4474-9ed5-6ded291a23f1" name="Changes" comment="" />
+      <created>1702804928642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702804928642</updated>
+      <workItem from="1702804930509" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

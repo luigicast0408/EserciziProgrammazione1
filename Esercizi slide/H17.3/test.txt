@@ -1,0 +1,4 @@
+Homework H17.3
+Scrivere un programma che chieda in input al’utente nome e cognome, da memorizzare in due array di caratteri distinti.
+Definire quindi un array di caratteri che possoa contenere sia nome che cognome separati da un carattere ’;’, senza spazi.
+Copiare nome e cognome mediante la funzione strcpy nel nuovo array di caratteri, senza dimenticare il carattere ’;’.
