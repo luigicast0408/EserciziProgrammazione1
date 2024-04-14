@@ -1,0 +1,16 @@
+-template list ok
+-template double linked list ok
+-stack ok
+-queue ok
+-prova del 5  dicembre   2023
+-prova del 6  dicembre   2023 ok
+-prova del 17 marzo      2023
+-prova del 20 luglio     2023 ok '
+-prova del 21 aprile     2023 ok'
+-prova del 21 settembre  2023 ok
+-prova del 27 giugno     2023 ok
+-prova del 28 aprile     2023 ok
+-prova del 31 marzo      2023 ok
+-prova del 8  febbraio   2023 ok
+-prova del 24 febbraio   2023
+-file_record 25 dicembre 2024

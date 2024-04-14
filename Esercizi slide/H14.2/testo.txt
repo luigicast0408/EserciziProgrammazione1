@@ -1,0 +1,11 @@
+Homework H14.2.
+1. Dichiarare un array D di 10 elementi double ed un array A di 10 elementi int.
+2. Inizializzare gli elementi di D ed A con numeri pseudo-casuali negli intervalli [1.25, 90] [10, 50] rispettivamente.
+
+NB: Usare sia aritmetica dei puntatori che notazione con parentesi quadre.
+
+3. Dichiarare due variabili puntatore ptr D e ptr A di tipo double e int rispettivamente, ed inizializzare tali puntatori in modo che puntino ai primi elementi di D ed A rispettivamente.
+4. Codificare opportunamente un ciclo che stampi, su ogni riga di output, i) sia il valore, che ii) l’indirizzo in memoria, di ogni elemento di indice dispari dell’array D, e di ogni elemento di indice pari dell’array A.
+In particolare
+• Per stampare i dati, impiegare sia le variabili puntatore che i nomi degli array (ovvero le variabili che rappresentano gli array); usare sia aritmetica dei puntatori (e operatore ’*’) che notazione con parentesi quadre in entrambi i casi;
+• Per stampare gli indirizzi, impiegare sia le variabili puntatore che i nomi degli array (ovvero le variabili che rappresentano gli array); usare sia aritmetica dei puntatori che notazione con parentesi quadre (e operatore ’&’);

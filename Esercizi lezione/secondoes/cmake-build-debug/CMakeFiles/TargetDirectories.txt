@@ -1,0 +1,3 @@
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /secondoes/cmake-build-debug/CMakeFiles/secondoes.dir
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /secondoes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /secondoes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

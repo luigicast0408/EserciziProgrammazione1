@@ -1,0 +1,2 @@
+Codificare una funzione in C che prenda in input una coppia di interi short con segno e restituisca il valore assoluto del prodotto di tali interi.
+Invocare la funzione all’interno di una funzione main() con alcuni valori di test.

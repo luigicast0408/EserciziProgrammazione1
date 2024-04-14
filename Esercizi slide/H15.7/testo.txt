@@ -1,0 +1,4 @@
+Homework H15.7
+Codificare una funzione in C che prenda in input un array bidimensionale di dimensioni N × M di interi, ovvero una matrice, ed un numero double y.
+La funzione restituisca il numero di colonne della matrice che soddisfano il seguente requisito: la media aritmetica degli elementi della colonna stessa sia minore o uguale ad y.
+Testare la funzione mediante la codifica di una funzione main() nella quale si dichiari (allocazione automatica) un un array bidimensionale di dimensioni a piacimento. Riempire tale matrice con elementi pseudo-casuali in un range a piacere.

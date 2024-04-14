@@ -1,0 +1,3 @@
+Scrivere una funzione che prenda in input un parametro formale matrice A di interi di dimensioni n × m, uno short k ed uno short w,
+e restituisca true se la matrice contiene almeno w colonne
+che contengono almeno una sequenza di interi monotona crescente di lunghezza maggiore o uguale a k.

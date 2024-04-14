@@ -1,0 +1,5 @@
+Homework H14.1.
+Dichiarare ed inizializzare tre variabili, un double, uno short unsigned, ed un char, assegnando valori a piacere.
+Dichiarare altrettante variabili puntatore dello stesso tipo ed assegnare ad essi gli indirizzi delle variabili dichiarate in precedenza.
+Stampare, mediante la funzione di libreria printf() i valori contenuti all’interno di tali variabili in due modi differenti: i) mediante le variabili stesse e ii) mediante le variabili puntatore.
+Stampare, mediante printf(), i valori contenuti all’interno dei puntatori (gli indirizzi di memoria).

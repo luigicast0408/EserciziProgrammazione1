@@ -1,0 +1,3 @@
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/esercizi_del_26-OTT/cmake-build-debug/CMakeFiles/esercizi_del_26_OTT.dir
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/esercizi_del_26-OTT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/esercizi_del_26-OTT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

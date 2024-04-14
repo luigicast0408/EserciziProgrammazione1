@@ -1,0 +1,4 @@
+Homework H16.2
+Codificare una funzione in C che prenda in input tre parametri formali: una matrice di stringhe S di dimensioni n × m,
+un array di caratteri C che contiene per ipotesi elementi distinti, ed un float w.
+Il metodo restituisca true se esiste almeno una riga o una colonna della matrice tale che la percentuale di caratteri di C presenti in essa `e maggiore di w.

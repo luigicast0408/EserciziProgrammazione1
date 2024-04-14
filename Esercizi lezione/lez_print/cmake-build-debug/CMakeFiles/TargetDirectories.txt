@@ -1,0 +1,3 @@
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/lez_print/cmake-build-debug/CMakeFiles/lez_print.dir
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/lez_print/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/lez_print/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+Sia V una matrice di dimensione N X M ed un numero K.
+Descrivere un algoritmo in notazione NLS che restituisca il numero di colonne di indice dispari tali che la somma
+degli elementi della singola colonna sia minore di k;
+
+inserisci N
+inserisci M
+inserisci k
+i<--0
+j<--0
+while(i<N)
+    j<--0
+    while(j<M)
+    somma<--0
+    if(j%2==1)
+        somma<-- somma+M[i][j]
+    endif
+    if(somma<k)
+        request<--request+1
+    endif
+    endwhile
+endwhile

@@ -1,0 +1,2 @@
+Homework H15.3
+Codificare una funzione in C che prenda in input un array di caratteri. Tale funzione dovr`a restituire la lunghezza della stringa.

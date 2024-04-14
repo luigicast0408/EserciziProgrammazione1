@@ -1,0 +1,3 @@
+Modificare il precedente esercizio affinch`e la funzione prenda in input, oltre alla coppia di interi short, anche un puntatore ad numero short unsigned.
+La funzione dovr`a scrivere il risultato della computazione nella locazione di memoria rappresentata dal puntatore in input. La funzione non avr`a alcun tipo di ritorno.
+Invocare la funzione all’interno di una funzione main() con alcuni valori di test. Stampare opportunamente i risultati.

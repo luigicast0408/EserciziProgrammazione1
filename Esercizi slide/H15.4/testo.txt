@@ -1,0 +1,5 @@
+Codificare una funzione in C che prenda in input due array di caratteri. La funzione restituisca un risultato intero che rappresenta il confronto lessicografico tra le due stringhe
+(siano s1 ed s2 le due stringhe):
+*-1ses1<s2;
+* 1 se s1 > s2;
+*0 se s1 = s2.

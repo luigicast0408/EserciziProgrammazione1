@@ -1,0 +1,2 @@
+Scrivere una funzione che prenda in input un parametro formale matrice M di dimensioni n × m di stringhe (puntatori a char),
+e che restituisca true se esiste almeno una colonna in M che abbia un egual numero di stringhe palindrome di una delle righe di M.

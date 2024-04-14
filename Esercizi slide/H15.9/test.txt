@@ -1,0 +1,4 @@
+Homework H15.9
+Codificare una funzione in C che prenda in input un array bidimensionale di dimensioni n × n di interi, ovvero una matrice quadrata.
+La funzione restituisca la differenza, in valore assoluto, tra la media aritmetica degli elementi della diagonale principale,
+e la media aritmetica degli elementi della diagonale secondaria.

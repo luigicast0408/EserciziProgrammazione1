@@ -1,0 +1,3 @@
+/Users/luigidomenicocastano/Library/CloudStorage/OneDrive-UniversitàdegliStudidiCatania/UNICT/2023-2024/1° semetre/Programmazione 1_/Esercizi/esercizi svolti/C_code/cmake-build-debug/CMakeFiles/C_code.dir
+/Users/luigidomenicocastano/Library/CloudStorage/OneDrive-UniversitàdegliStudidiCatania/UNICT/2023-2024/1° semetre/Programmazione 1_/Esercizi/esercizi svolti/C_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luigidomenicocastano/Library/CloudStorage/OneDrive-UniversitàdegliStudidiCatania/UNICT/2023-2024/1° semetre/Programmazione 1_/Esercizi/esercizi svolti/C_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

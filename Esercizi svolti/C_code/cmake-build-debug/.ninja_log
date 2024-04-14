@@ -1,0 +1,26 @@
+# ninja log v5
+121	161	1698303266040941341	CMakeFiles/C_code.dir/7_04_inf.c.o	f37f89993e4f867
+120	158	1698303266037615749	CMakeFiles/C_code.dir/7_04_constMath.c.o	1a6a0e52e3dd3900
+120	158	1698303266037207164	CMakeFiles/C_code.dir/7_04_casting.c.o	b2da4184bd92ca8
+119	158	1698303266037298290	CMakeFiles/C_code.dir/7_02_precision.c.o	cc89ef939a857efd
+1	120	1698303265996616222	CMakeFiles/C_code.dir/7_01_float_h.c.o	86056a9c600d4596
+120	158	1698303266036572579	CMakeFiles/C_code.dir/7_03_overflow.c.o	d2d8ebe3034bb20b
+1	122	1698303265996573097	CMakeFiles/C_code.dir/7_01_unary_op.c.o	297857f6f58d5dc7
+122	159	1698303266038121042	CMakeFiles/C_code.dir/7_04_macro.c.o	2772a1943a3e8bf2
+0	120	1698303265996589639	CMakeFiles/C_code.dir/7_01_char.c.o	44c8fd587d784d6b
+1	119	1698303265996622847	CMakeFiles/C_code.dir/7_01_sizeof.c.o	9310df1388cca61f
+1	121	1698303265996812098	CMakeFiles/C_code.dir/7_01_int.c.o	5e20e0e44bedf4f6
+0	120	1698303265996563556	CMakeFiles/C_code.dir/7_00_var.c.o	a28cbb6c9eacb281
+1	54	1698780528594560994	build.ninja	e15a9bffb20c1ca
+2	256	1698827842847568934	CMakeFiles/C_code.dir/7_01_sizeof.c.o	bf91bc128a6a5577
+1	257	1698827842847537101	CMakeFiles/C_code.dir/7_01_char.c.o	580b60979ea73192
+1	257	1698827842847592017	CMakeFiles/C_code.dir/7_01_float_h.c.o	5a88eca758624fca
+1	258	1698827842847599642	CMakeFiles/C_code.dir/7_01_int.c.o	61ce8d9847539cb2
+2	259	1698827842847519268	CMakeFiles/C_code.dir/7_01_unary_op.c.o	307ace2cee98de1
+0	259	1698827842847575643	CMakeFiles/C_code.dir/7_00_var.c.o	6869c7a787771ef7
+257	297	1698827842888532722	CMakeFiles/C_code.dir/7_04_casting.c.o	afcc3aa93238561a
+259	297	1698827842889623626	CMakeFiles/C_code.dir/7_04_macro.c.o	9de6c63a012fcdb8
+257	298	1698827842890835487	CMakeFiles/C_code.dir/7_03_overflow.c.o	bec2f289453a2c8c
+256	302	1698827842894604612	CMakeFiles/C_code.dir/7_02_precision.c.o	eeaa44f6b0f63331
+258	302	1698827842894577029	CMakeFiles/C_code.dir/7_04_constMath.c.o	948802490e8084bf
+259	303	1698827842894659361	CMakeFiles/C_code.dir/7_04_inf.c.o	73eba321c772fb76

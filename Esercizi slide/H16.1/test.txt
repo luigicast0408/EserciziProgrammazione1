@@ -1,0 +1,3 @@
+Codificare una funzione C che prenda in input un parametro formale matrice M di dimensioni n × m di stringhe (puntatori a caratteri),
+e che restituisca il valore true (1)
+se esiste almeno una colonna in M che abbia un egual numero di stringhe palindrome di una delle righe di M.

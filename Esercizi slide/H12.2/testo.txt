@@ -1,0 +1,7 @@
+Scrivere un programma in C nel quale si chiede all’utente di inserire due numeri N ed M entrambi maggiori di 1. Successivamente:
+• operare i soliti controlli ed eventuali arrotondamenti al fine di ottenere due numeri interi maggiori di zero;
+• inizializzare una matrice N × M con numeri in virgola mobile scelti a caso;
+• calcolare e stampare il prodotto di un numero scelto a caso (es: 3.542) con la matrice;
+• definire una ulteriore matrice quadrata N × N, in cui
+N = min(N, M). ES: per una matrice 8x9 le dimensioni della nuova matrice saranno 8x8;
+riempire la nuova matrice con i corrispondenti elementi della prima matrice.

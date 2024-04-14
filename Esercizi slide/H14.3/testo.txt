@@ -1,0 +1,6 @@
+Homework H14.3.
+1. Dichiarare un array V di N double, con N=200;
+2. Inizializzare gli elementi di V con numeri pseudo-casuali nell’intervallo [10, 50]. NB: Usare sia aritmetica dei puntatori che notazione con parentesi quadre.
+3. Dichiarare un puntatore al tipo const double. Mediante tale puntatore, stampare gli elementi con indici che siano non divisibili per due e non divisibili per tre.
+4. Dichiarare un puntatore const al tipo double. Mediante tale puntatore, sostituire tutti gli elementi dell’array che abbiano gli indici specificati al punto precedente,
+con un valore double pseudo-casuale in [100, 200];

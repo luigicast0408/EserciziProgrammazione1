@@ -1,0 +1,3 @@
+Codificare un programma in linguaggio C nel quale si chieda all’utente di inserire due interi (a e b) da tastiera.
+Il programma dovr`a poi stampare la somma, la media, ed il max tra i due numeri.
+Tutti gli output del programma dovranno essere in notazione scientifica, con una precisione di 4 cifre dopo la virgola.

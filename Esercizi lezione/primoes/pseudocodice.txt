@@ -1,0 +1,21 @@
+leggi t
+leggi k
+leggi w
+leggi v
+w<--v[k]
+i<-- k+1
+len<--0
+
+while(i<=k+w)
+if(z<t)
+while(i<=k+w)
+    if(z<t)
+    z<--z+v[i]
+    len<--len+1
+    endinf
+endwhile
+i<--i+1
+if(z>t)
+stampa i-k
+endif
+else

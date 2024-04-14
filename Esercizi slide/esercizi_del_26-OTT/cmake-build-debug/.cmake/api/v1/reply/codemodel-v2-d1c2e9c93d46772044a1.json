@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "esercizi_del_26_OTT",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "esercizi_del_26_OTT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-esercizi_del_26_OTT-Debug-12e8f6f74704ada70d32.json",
+					"name" : "esercizi_del_26_OTT",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/esercizi_del_26-OTT/cmake-build-debug",
+		"source" : "/Users/luigidomenicocastano/Desktop/UNICT/2023-2024/Programmazione 1 /Esercizi/esercizi_del_26-OTT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,6 @@
+Homework H15.5
+Codificare una funzione C che prenda in input un array di caratteri ed un parametro che indica la sua lunghezza.
+La funzione dovr`a riempire l’array di caratteri con caratteri pseudo-casuali nell’intervallo [a-z].
+La funzione dovr`a restituire il numero di vocali all’interno della stringa.
+Per l’accesso in scrittura agli elementi dell’array di caratteri, usare sia la notazione con ’*’ e aritmetica dei puntatori, sia la notazione con parentesi quadre.
+NB: porre attenzione al carattere di terminazione stringa.

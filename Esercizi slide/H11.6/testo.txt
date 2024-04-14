@@ -1,0 +1,9 @@
+Codificare un programma in linguaggio C che chieda all’utente di inserire da tastiera il proprio nome e cognome. Successivamente il programma dovr`a stampare le seguenti informazioni:
+1. il primo e l’ultimo carattere del nome, il secondo ed il terzo carattere del cognome.
+2. una stringa formata da tutti i caratteri che sono presenti sia nel nome che nel cognome. ES: se nome=”Mario”, cognome= ”Rossi” lo output sar`a ”io”.
+3. le segg. ulteriori informazioni:
+- a un messaggio che comunica all’utente se la prima lettera del nome `e uguale all’ultima lettera del cognome.
+- b un messaggio che comunica all’utente se il numero di caratteri del nome `e uguale al numero di caratteri del cognome.
+- c il numero di consonanti del nome e del cognome.
+Codificare un programma in linguaggio C che calcoli e stampi l’ipotenusa di un triangolo rettangolo.
+L’utente dovr`a inserire i due cateti a e b da tastiera. Il programma dovr`a controllare che i valori inseriti siano positivi.

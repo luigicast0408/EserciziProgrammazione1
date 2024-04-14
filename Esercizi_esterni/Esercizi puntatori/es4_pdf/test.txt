@@ -1,0 +1,2 @@
+
+Rivedete gli esercizi “Rovescia” e “Palindrome” (scheda L02.pdf) scorrendo la stringa con un puntatore anziché con un contatore intero.

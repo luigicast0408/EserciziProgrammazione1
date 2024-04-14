@@ -1,0 +1,1 @@
+#include "stdio.h"#include "stdlib.h"#include "stdbool.h"#define N 1000int main(){    for ( int i = N; i>0 ; i--) {        if(i<=N && i%2==0)            printf("%d\t",i);    }}

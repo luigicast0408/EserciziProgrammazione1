@@ -1,0 +1,3 @@
+2 Scambio di valori
+Scrivete una funzione con prototipo void scambia( int *p, int *q ) che scambi i valori delle due variabili puntate
+da p e q.

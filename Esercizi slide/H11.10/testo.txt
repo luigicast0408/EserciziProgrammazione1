@@ -1,0 +1,12 @@
+Tre vasche A, B e C raccolgono acqua da 15 tubi differenti.
+• La vasca A riceve l’acqua convogliata nei tubi 1,5,6,10.
+• La vasca B riceve l’acqua convogliata nei tubi da 2 a 4 e da 7 a 9.
+• La vasca C riceve l’acqua convogliata nei rimanenti tubi.
+Inoltre, i tubi con numero dispari hanno una portata di 60 litri al minuto, mentre quelli con numero pari hanno una portata di 120 litri al minuto.
+
+Codificare un programma in linguaggio C che esegua le seguenti operazioni:
+• il programma chiede in input all’utente 5 numeri distinti, compresi tra 1 e 15. Tali numeri rappresentano 5 differenti tubi.
+ NB: il programma deve operare un controllo sulla validit`a dell’input (ad esempio che i numeri siano tutti differenti tra loro);
+• il programma chiede all’utente il numero totale di minuti (M) durante i quali i tubi specificati forniranno acqua alla rispettiva vasca.
+NB: il programma deve operare un controllo sulla validit`a dello input, ad esempio che il numero immesso sia positivo.
+• il programma calcola e stampa la quantit`a d’acqua raccolta in ogni vasca dopo gli M minuti specificati dall’utente.

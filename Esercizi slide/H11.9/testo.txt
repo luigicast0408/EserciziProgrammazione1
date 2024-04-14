@@ -1,0 +1,11 @@
+Scrivere un programma in C finalizzato al calcolo dei valori di dosaggio per la ricetta di un dolce.
+Il programma chiede all’utente di inserire un numero compreso tra 2 e 16 che rappresenta il numero di persone che mangeranno il dolce.
+Il programma chiede all’utente di inserire un valore che indica se tra i commensali ci sono diabetici.
+Il programma calcola il dosaggio nel seguente modo:
+A) dosaggio “base”, per un numero di persone compreso tra 2 e 4 (estremi inclusi): 0.3kg di farina, 4 uova, 0.1kg di zucchero.
+B) dosaggio “medio”, per un numero di persone compreso tra 5 e 8 (estremi inclusi). 2 volte e mezzo il dosaggio base per la farina e le uova, 1 volta e mezzo il dosaggio base di zucchero.
+C) dosaggio “grande”, per un numero di persone compreso tra 9 e 16 (estremi inclusi): in questo caso il dosaggio andr`a calcolato come la somma dei dosaggi dei due casi precedenti (medio e base).
+Inoltre:
+• se ci sono diabetici tra i commensali, usare il fruttosio al posto dello zucchero, e la dose sar`a la seguente:
+dosaggio Fruttosio = 2/3 × dosaggio Zucchero.
+• il numero di uova va arrotondato sempre per eccesso (es: 2.1 → 3, 2.9 → 3, 9.45 → 10).

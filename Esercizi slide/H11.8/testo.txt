@@ -1,0 +1,2 @@
+Codificare un programma in linguaggio C che chieda all’utente di inserire il raggio di un cerchio.
+Il programma dovra calcolare e stampare l’area e la circonferenza del cerchio.
